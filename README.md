@@ -27,3 +27,4 @@ Future Enhancements:
 
 We are committed to continuously improving Text to Image AI by incorporating user feedback, enhancing model accuracy, and expanding its feature set. Stay updated with our latest developments and new capabilities to make the most of this innovative tool.
 
+![screenshot1](https://github.com/Sebastian10124/my-ai-models/blob/main/myai%20screenshot/myai1.jpeg?raw=true)
